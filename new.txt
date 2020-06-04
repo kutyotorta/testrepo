@@ -1,2 +1,12 @@
 bob
 ezt azért írtam ide a bob alá, hogy változtassak az eredetileg mentett szövegen.
+Most megint változtatok, és megismételem az egész munkamenetet a feltöltésig a github szerverre
+git add new.txt
+git add .
+git commit -m "gyakorlás"
+
+git fetch
+git pull
+git push
+
+asszem
